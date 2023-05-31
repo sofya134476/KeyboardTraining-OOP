@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardTraining", "KeyboardTraining.csproj", "{187E7C63-F62A-4C3E-83C9-CB39D1BE1DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187E7C63-F62A-4C3E-83C9-CB39D1BE1DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187E7C63-F62A-4C3E-83C9-CB39D1BE1DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187E7C63-F62A-4C3E-83C9-CB39D1BE1DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187E7C63-F62A-4C3E-83C9-CB39D1BE1DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843D6FBF-83FD-4761-A6B6-AFC3AAECCEA2}
+	EndGlobalSection
+EndGlobal
